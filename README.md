@@ -1,5 +1,5 @@
-#**Marketing Campaign Performance Analysis**\
-**📌## Project Overview**\
+**Marketing Campaign Performance Analysis**\
+**📌 Project Overview**\
 As a data analyst, I conducted a comprehensive analysis of a 200,000+ row marketing campaign dataset to evaluate the effectiveness of various marketing strategies, identify high-performing channels, and optimize future campaigns for better ROI. This project is crucial for businesses looking to maximize their marketing spend, improve audience targeting, and enhance overall campaign performance.
 
 🔗 Dataset Source: Kaggle - Marketing Campaign Performance Dataset
@@ -57,7 +57,7 @@ This analysis enables marketing teams to:\
 ✅ Improve audience targeting – Prioritize Women 25-34 & Men 25-34 segments.\
 ✅ Optimize campaign duration – 45-day campaigns performed best.\
 ✅ Enhance content strategy – Use more visual & interactive formats.\
-✅ Reduce wasted spend – Cut low-performing channels (Email, Website).\
+✅ Reduce wasted spend – Cut low-performing channels (Email, Website).
 
 📂 Repository Structure
 Marketing_Campaign.ipynb – Full Python analysis (EDA, visualizations, insights).
