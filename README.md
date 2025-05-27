@@ -20,25 +20,25 @@ By answering the 10 key questions, this analysis provides actionable recommendat
 **🔍 Key Questions Answered**\
 The analysis focused on 10 critical questions to assess campaign performance:
 
-Most & Least Effective Channels & Strategies – Identified top-performing platforms (Facebook, Website) and underperforming ones (Instagram).
+1. Most & Least Effective Channels & Strategies – Identified top-performing platforms (Facebook, Website) and underperforming ones (Instagram).
 
-Elements That Resonated with Audiences – Women 25-34 responded best to Influencer campaigns.
+2. Elements That Resonated with Audiences – Women 25-34 responded best to Influencer campaigns.
 
-KPI Performance – Campaigns met/exceeded targets (Avg. ROI: 5.01, Conversion Rate: 0.08).
+3. KPI Performance – Campaigns met/exceeded targets (Avg. ROI: 5.01, Conversion Rate: 0.08).
 
-Overall ROI – Average ROI was 5.0024, with some campaigns reaching 8.0.
+4. Overall ROI – Average ROI was 5.0024, with some campaigns reaching 8.0.
 
-Top-Performing Campaigns – Facebook campaign outperformed others.
+5. Top-Performing Campaigns – Facebook campaign outperformed others.
 
-Audience Response – Most positive engagement from Women 25-34.
+6. Audience Response – Most positive engagement from Women 25-34.
 
-Engagement Metrics – Avg. engagement score: 5.49/10 (highest on Webiste).
+7. Engagement Metrics – Avg. engagement score: 5.49/10 (highest on Webiste).
 
-Optimization Strategies – Shift budget to high-ROI channels & refine targeting.
+8. Optimization Strategies – Shift budget to high-ROI channels & refine targeting.
 
-New Insights – 30-day campaigns performed best; language-location trends detected.
+9. New Insights – 30-day campaigns performed best; language-location trends detected.
 
-Future Success Strategies – Recommended A/B testing, dynamic budget allocation, and AI-driven optimizations.
+10. Future Success Strategies – Recommended A/B testing, dynamic budget allocation, and AI-driven optimizations.
 
 **📊 Key Metrics Used**\
 ROI (Return on Investment) – Avg: 5.01 (Range: 2.0–8.0)
@@ -53,11 +53,11 @@ Impressions – Avg: 5,507 per campaign
 
 **🚀 How This Helps Businesses**\
 This analysis enables marketing teams to:
-✅ Allocate budgets wisely – Focus on high-ROI channels (YouTube, Instagram).
-✅ Improve audience targeting – Prioritize Women 25-34 & Men 25-34 segments.
-✅ Optimize campaign duration – 45-day campaigns performed best.
-✅ Enhance content strategy – Use more visual & interactive formats.
-✅ Reduce wasted spend – Cut low-performing channels (Email, Website).
+*✅ Allocate budgets wisely – Focus on high-ROI channels (YouTube, Instagram).
+*✅ Improve audience targeting – Prioritize Women 25-34 & Men 25-34 segments.
+*✅ Optimize campaign duration – 45-day campaigns performed best.
+*✅ Enhance content strategy – Use more visual & interactive formats.
+*✅ Reduce wasted spend – Cut low-performing channels (Email, Website).
 
 📂 Repository Structure
 Marketing_Campaign.ipynb – Full Python analysis (EDA, visualizations, insights).
