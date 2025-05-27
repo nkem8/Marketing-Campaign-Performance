@@ -1,6 +1,6 @@
-#**Marketing Campaign Performance Analysis**
-##📌 Project Overview
-As a data analyst, I conducted a comprehensive analysis of a 200,000+ row marketing campaign dataset to evaluate the effectiveness of various marketing strategies, identify high-performing channels, and optimize future campaigns for better ROI. This project is crucial for businesses looking to maximize their marketing spend, improve audience targeting, and enhance overall campaign performance.
+#**Marketing Campaign Performance Analysis**\
+📌## Project Overview\
+As a data analyst, I conducted a comprehensive analysis of a 200,000+ row marketing campaign dataset to evaluate the effectiveness of various marketing strategies, identify high-performing channels, and optimize future campaigns for better ROI. This project is crucial for businesses looking to maximize their marketing spend, improve audience targeting, and enhance overall campaign performance.\
 
 🔗 Dataset Source: Kaggle - Marketing Campaign Performance Dataset
 
