@@ -64,7 +64,7 @@ Marketing_Campaign.ipynb – Full Python analysis (EDA, visualizations, insights
 
 README.md – Project overview & key takeaways.
 
-Dataset/ – [Link to Kaggle dataset.](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset/data)
+Dataset: – [Link to Kaggle dataset.](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset/data)
 
 **💡 Conclusion**\
 This project demonstrates how data-driven decision-making can transform marketing strategies. By analyzing performance metrics, identifying trends, and recommending optimizations, businesses can boost ROI, improve engagement, and achieve better campaign results.
