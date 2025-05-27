@@ -41,7 +41,7 @@ The analysis focused on 10 critical questions to assess campaign performance:
 10. Future Success Strategies – Recommended A/B testing, dynamic budget allocation, and AI-driven optimizations.
 
 **📊 Key Metrics Used**\
-ROI (Return on Investment) – Avg: 5.01 (Range: 2.0–8.0)
+ROI (Return on Investment) – Avg: 5.0024 (Range: 2.0–8.0)
 
 Conversion Rate – Avg: 0.08 (Range: 0.01–0.15)
 
