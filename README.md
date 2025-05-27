@@ -59,7 +59,7 @@ This analysis enables marketing teams to:\
 ✅ Enhance content strategy – Use more visual & interactive formats.\
 ✅ Reduce wasted spend – Cut low-performing channels (Email, Website).
 
-📂 Repository Structure
+📂 Repository Structure\
 Marketing_Campaign.ipynb – Full Python analysis (EDA, visualizations, insights).
 
 README.md – Project overview & key takeaways.
