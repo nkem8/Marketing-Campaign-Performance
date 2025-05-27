@@ -53,10 +53,10 @@ Impressions – Avg: 5,507 per campaign
 
 **🚀 How This Helps Businesses**\
 This analysis enables marketing teams to:
-*✅ Allocate budgets wisely – Focus on high-ROI channels (YouTube, Instagram).
+-✅ Allocate budgets wisely – Focus on high-ROI channels (YouTube, Instagram).
 *✅ Improve audience targeting – Prioritize Women 25-34 & Men 25-34 segments.
-*✅ Optimize campaign duration – 45-day campaigns performed best.
-*✅ Enhance content strategy – Use more visual & interactive formats.
++✅ Optimize campaign duration – 45-day campaigns performed best.
+-✅ Enhance content strategy – Use more visual & interactive formats.
 *✅ Reduce wasted spend – Cut low-performing channels (Email, Website).
 
 📂 Repository Structure
